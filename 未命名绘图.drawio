@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T17:53:15.238Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.1.1" etag="7KJDrb6M1kd_57hf74DG" type="github"><diagram id="6PAzsPrNskaav0n_Chyx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-04T18:20:37.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YicqjlW6mLuHqtyAWRGX" version="14.1.1" type="github">
+  <diagram id="6PAzsPrNskaav0n_Chyx" name="第 1 页">
+    <mxGraphModel dx="957" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GSpNVZnP5H16UnG17yg1-1" value="科研管理系统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="347" y="100" width="196" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-6" value="用&lt;br&gt;户&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-8" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-6" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="470" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="265" y="180" />
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-9" value="科&lt;br&gt;研&lt;br&gt;项&lt;br&gt;目&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-10" value="科&lt;br&gt;研&lt;br&gt;成&lt;br&gt;果&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-11" value="国&lt;br&gt;家&lt;br&gt;专&lt;br&gt;利&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-12" value="文&lt;br&gt;艺&lt;br&gt;创&lt;br&gt;作&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="490" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-13" value="科&lt;br&gt;研&lt;br&gt;信&lt;br&gt;息&lt;br&gt;查&lt;br&gt;询" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-14" value="个&lt;br&gt;人&lt;br&gt;信&lt;br&gt;息&lt;br&gt;管&lt;br&gt;理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="30" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-15" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-9" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="180" as="sourcePoint" />
+            <mxPoint x="630" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="180" />
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-16" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-10" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="200" as="sourcePoint" />
+            <mxPoint x="590" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="385" y="180" />
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-17" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-11" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="170" as="sourcePoint" />
+            <mxPoint x="660" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-18" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-12" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="180" as="sourcePoint" />
+            <mxPoint x="640" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="180" />
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-19" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-14" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="180" as="sourcePoint" />
+            <mxPoint x="420" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="180" />
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GSpNVZnP5H16UnG17yg1-20" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" edge="1" parent="1" source="GSpNVZnP5H16UnG17yg1-13" target="GSpNVZnP5H16UnG17yg1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="150" as="sourcePoint" />
+            <mxPoint x="700" y="100" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="180" />
+              <mxPoint x="414" y="180" />
+              <mxPoint x="445" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
