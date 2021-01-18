@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T17:53:39.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6PhRx-sP7AOB5IP-T7mw" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-18T09:24:25.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="eMsnAXw_F0F14R6RgU4M" version="14.1.8" type="github">
   <diagram id="2G0d_gVu83ZyIBH3VBJq" name="第 1 页">
-    <mxGraphModel dx="1077" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1215" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-1" value="科研管理系统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-1" value="科研成果管理系统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="330" y="50" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-2" value="科&lt;br style=&quot;font-size: 15px;&quot;&gt;研&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;系&lt;br style=&quot;font-size: 15px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-2" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="230" y="150" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-3" value="科&lt;br style=&quot;font-size: 15px;&quot;&gt;研&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;系&lt;br style=&quot;font-size: 15px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-3" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="290" y="150" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-4" value="科&lt;br style=&quot;font-size: 15px;&quot;&gt;研&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;系&lt;br style=&quot;font-size: 15px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-4" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="350" y="150" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-5" value="科&lt;br style=&quot;font-size: 15px;&quot;&gt;研&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;系&lt;br style=&quot;font-size: 15px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-5" value="论文管理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="413.5" y="150" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-6" value="科&lt;br style=&quot;font-size: 15px;&quot;&gt;研&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;系&lt;br style=&quot;font-size: 15px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-6" value="专利管理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="530" y="150" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-7" value="科&lt;br style=&quot;font-size: 15px;&quot;&gt;研&lt;br style=&quot;font-size: 15px;&quot;&gt;管&lt;br style=&quot;font-size: 15px;&quot;&gt;理&lt;br style=&quot;font-size: 15px;&quot;&gt;系&lt;br style=&quot;font-size: 15px;&quot;&gt;统" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-7" value="著作管理" style="rounded=0;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="470" y="150" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-8" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;fontSize=15;" edge="1" parent="1" source="cemzPqufBnS8Dp2tyOaI-2" target="cemzPqufBnS8Dp2tyOaI-1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-8" value="" style="endArrow=none;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;fontSize=15;" parent="1" source="cemzPqufBnS8Dp2tyOaI-2" target="cemzPqufBnS8Dp2tyOaI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="150" as="sourcePoint" />
             <mxPoint x="700" y="100" as="targetPoint" />
@@ -35,7 +35,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-9" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="cemzPqufBnS8Dp2tyOaI-3" target="cemzPqufBnS8Dp2tyOaI-1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-9" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="cemzPqufBnS8Dp2tyOaI-3" target="cemzPqufBnS8Dp2tyOaI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="120" as="sourcePoint" />
             <mxPoint x="630" y="70" as="targetPoint" />
@@ -45,7 +45,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-10" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="cemzPqufBnS8Dp2tyOaI-4">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-10" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="cemzPqufBnS8Dp2tyOaI-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="130" as="sourcePoint" />
             <mxPoint x="400" y="90" as="targetPoint" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-11" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="cemzPqufBnS8Dp2tyOaI-5">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-11" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="cemzPqufBnS8Dp2tyOaI-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="140" as="sourcePoint" />
             <mxPoint x="400" y="90" as="targetPoint" />
@@ -65,7 +65,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-12" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="cemzPqufBnS8Dp2tyOaI-7" target="cemzPqufBnS8Dp2tyOaI-1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-12" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="cemzPqufBnS8Dp2tyOaI-7" target="cemzPqufBnS8Dp2tyOaI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="150" as="sourcePoint" />
             <mxPoint x="660" y="100" as="targetPoint" />
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cemzPqufBnS8Dp2tyOaI-13" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="cemzPqufBnS8Dp2tyOaI-6" target="cemzPqufBnS8Dp2tyOaI-1">
+        <mxCell id="cemzPqufBnS8Dp2tyOaI-13" value="" style="endArrow=none;html=1;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="cemzPqufBnS8Dp2tyOaI-6" target="cemzPqufBnS8Dp2tyOaI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="620" y="160" as="sourcePoint" />
             <mxPoint x="670" y="110" as="targetPoint" />
