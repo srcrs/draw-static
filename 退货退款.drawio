@@ -1,1 +1,163 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T22:34:15.232Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" version="15.0.3" etag="ety5QVAhXb4rv5n0JbLz" type="github"><diagram id="3lpZtppgiV7N8OJ-dTsX">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-05T23:29:08.598Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="-7-vRK82xMpoVecBCSR7" version="15.0.3" type="github">
+  <diagram id="3lpZtppgiV7N8OJ-dTsX" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U258XrRu8F973JqRmIVx-8" value="&lt;span&gt;创建退货退款&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-9" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="20" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-11" value="&lt;span&gt;同意退货退款&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-12" value="&lt;span&gt;买家退回商品&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="90" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-13" value="&lt;span&gt;取消退货退款&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="90" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-14" value="&lt;span&gt;退款成功&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="90" width="100" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-15" value="申请退货退款" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="180" as="sourcePoint" />
+            <mxPoint x="206" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="205" y="150" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="215" y="200" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-18" value="创建退货申请单" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=1;exitY=0.282;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-16" target="U258XrRu8F973JqRmIVx-17">
+          <mxGeometry x="0.0615" width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="181" />
+              <mxPoint x="260" y="231" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="365" y="280" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375" y="330" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-22" value="同意退货" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=0.9;exitY=0.245;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-20" target="U258XrRu8F973JqRmIVx-21">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="307" />
+              <mxPoint x="420" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: menlo, monaco, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;approveAfterSaleApply&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: menlo, monaco, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #ce9178&quot;&gt;addRefundApply&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-25" value="等待卖家同意" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeWidth=2;exitX=-0.1;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-16" target="U258XrRu8F973JqRmIVx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="320" as="sourcePoint" />
+            <mxPoint x="390" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-26" value="同意退货退款申请，填写物流单号" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=-0.1;exitY=0.355;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-20" target="U258XrRu8F973JqRmIVx-9">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="470" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="525" y="400" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-29" value="填写退货物流单号" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;entryX=0;entryY=0.163;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-9" target="U258XrRu8F973JqRmIVx-28">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="80" y="400" as="sourcePoint" />
+            <mxPoint x="470" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-30" value="等待商家确认收货" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeWidth=2;" edge="1" parent="1" target="U258XrRu8F973JqRmIVx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="524" y="453" as="sourcePoint" />
+            <mxPoint x="390" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-31" value="回填物流单号" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=1;exitY=0.218;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-28" target="U258XrRu8F973JqRmIVx-32">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="550" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="424" />
+              <mxPoint x="580" y="486" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="535" y="450" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="695" y="530" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="705" y="580" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-35" value="取消操作" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=1.1;exitY=0.209;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.2;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-33" target="U258XrRu8F973JqRmIVx-34">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="730" y="530" as="sourcePoint" />
+            <mxPoint x="810" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="553" />
+              <mxPoint x="760" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-36" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: menlo, monaco, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa&quot;&gt;sendExpressReturnByParams&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-37" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: menlo, monaco, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa&quot;&gt;cancelAfterSaleApply&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-38" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: menlo, monaco, &amp;quot;courier new&amp;quot;, monospace; font-weight: normal; font-size: 12px; line-height: 18px;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #dcdcaa&quot;&gt;successRefundByParams&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-39" value="取消退货退款" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="570" as="sourcePoint" />
+            <mxPoint x="699" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-40" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="855" y="650" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-41" value="仓库验收通过" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=0.51;exitY=0.796;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="890" y="604.5" as="sourcePoint" />
+            <mxPoint x="866" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="623" />
+              <mxPoint x="910" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U258XrRu8F973JqRmIVx-42" value="退款成功" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;strokeWidth=2;exitX=-0.1;exitY=0.688;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U258XrRu8F973JqRmIVx-40" target="U258XrRu8F973JqRmIVx-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="590" as="sourcePoint" />
+            <mxPoint x="480" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
