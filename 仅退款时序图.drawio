@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2021-09-05T15:21:20.899Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" version="15.0.3" etag="lMGocKclY9uxmD6E2vfL" type="github"><diagram id="h3oW2JSOAwKiPaTRix45">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-05T22:33:40.089Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="c04niLmP0HbtQxCLDFYG" version="15.0.3" type="github">
+  <diagram id="h3oW2JSOAwKiPaTRix45" name="第 1 页">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5cqKluGBeerSZQGnTCHo-1" value="天猫" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="100" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-3" value="万物" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="100" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-5" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="560" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555" y="250" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-8" value="新仅退款单数据，&lt;a class=&quot;J_detailIn&quot; target=&quot;_blank&quot; href=&quot;https://my.open.taobao.com/integration/view_topic.htm?spm=a219a.7395903.2.2.5ddd469duFCVyH&amp;amp;id=118&amp;amp;hiddenLayout=true&quot; title=&quot;taobao_refund_RefundCreated&quot; style=&quot;color: rgb(0 , 85 , 170) ; font-size: 12px ; font-family: &amp;#34;tahoma&amp;#34; ; text-align: left&quot;&gt;taobao_refund_RefundCreated&lt;/a&gt;" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;strokeWidth=2;entryX=-0.1;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;rounded=0;" edge="1" parent="1" target="5cqKluGBeerSZQGnTCHo-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="234" as="targetPoint" />
+            <mxPoint x="160" y="220" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="545" y="200" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-14" value="创建申请单" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;entryX=1.1;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" target="5cqKluGBeerSZQGnTCHo-6">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="560" y="230" as="sourcePoint" />
+            <mxPoint x="640" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="230" />
+              <mxPoint x="600" y="284" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-15" value="" style="endArrow=none;endSize=12;dashed=1;html=1;strokeWidth=2;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="78" y="340" as="sourcePoint" />
+            <mxPoint x="640" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-17" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="545" y="360" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555" y="410" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-21" value="确认申请单" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=1;exitY=0.258;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.1;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="5cqKluGBeerSZQGnTCHo-17" target="5cqKluGBeerSZQGnTCHo-18">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="540" as="sourcePoint" />
+            <mxPoint x="450" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="391" />
+              <mxPoint x="600" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-23" value="新仅退款单数据&lt;span style=&quot;color: rgb(102 , 102 , 102) ; font-family: &amp;#34;microsoft yahei&amp;#34; ; font-size: 12px&quot;&gt;，&lt;/span&gt;&lt;a class=&quot;J_detailIn&quot; target=&quot;_blank&quot; href=&quot;https://my.open.taobao.com/integration/view_topic.htm?spm=a219a.7395903.2.6.5ddd469dfoNRmC&amp;amp;id=122&amp;amp;hiddenLayout=true&quot; title=&quot;taobao_refund_RefundBuyerReturnGoods&quot; style=&quot;color: rgb(76 , 185 , 252) ; font-size: 12px ; outline: 0px ; font-family: &amp;#34;tahoma&amp;#34; ; text-align: left ; background-color: rgb(236 , 245 , 253)&quot;&gt;taobao_refund_RefundBuyerRetu&lt;/a&gt;rnGoodds" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="160" y="380" as="sourcePoint" />
+            <mxPoint x="544" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-24" value="[else if]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="340" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-25" value="" style="endArrow=none;endSize=12;dashed=1;html=1;strokeWidth=2;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="78" y="510" as="sourcePoint" />
+            <mxPoint x="640" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-26" value="[else if]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="510" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-27" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="545" y="530" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555" y="580" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-29" value="申请单成功" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;entryX=0.9;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.8;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" edge="1" parent="1" source="5cqKluGBeerSZQGnTCHo-27" target="5cqKluGBeerSZQGnTCHo-28">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="566" />
+              <mxPoint x="600" y="619" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-30" value="新仅退款单数据，&lt;a class=&quot;J_detailIn&quot; target=&quot;_blank&quot; href=&quot;https://my.open.taobao.com/integration/view_topic.htm?spm=a219a.7395903.2.10.5ddd469dfoNRmC&amp;amp;id=127&amp;amp;hiddenLayout=true&quot; title=&quot;taobao_refund_RefundSuccess&quot; style=&quot;color: rgb(0 , 85 , 170) ; font-size: 12px ; font-family: &amp;#34;tahoma&amp;#34; ; text-align: left ; background-color: rgb(236 , 245 , 253)&quot;&gt;taobao_refund_RefundSuccess&lt;/a&gt;" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="161" y="550" as="sourcePoint" />
+            <mxPoint x="545" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-31" value="[&amp;nbsp; &amp;nbsp; if&amp;nbsp; &amp;nbsp; ]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="210" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-32" value="" style="endArrow=none;endSize=12;dashed=1;html=1;strokeWidth=2;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="75" y="670" as="sourcePoint" />
+            <mxPoint x="637" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="545" y="700" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-34" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="555" y="750" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-37" value="申请取消" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;exitX=1;exitY=0.225;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.9;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;rounded=0;" edge="1" parent="1" source="5cqKluGBeerSZQGnTCHo-33" target="5cqKluGBeerSZQGnTCHo-34">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="370" y="560" as="sourcePoint" />
+            <mxPoint x="570" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="727" />
+              <mxPoint x="600" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5cqKluGBeerSZQGnTCHo-38" value="新仅退款单数据，&lt;a class=&quot;J_detailIn&quot; target=&quot;_blank&quot; href=&quot;https://my.open.taobao.com/integration/view_topic.htm?id=126&amp;amp;hiddenLayout=true&quot; title=&quot;taobao_refund_RefundClosed&quot; style=&quot;color: rgb(0 , 85 , 170) ; font-size: 12px ; font-family: &amp;#34;tahoma&amp;#34; ; text-align: left ; background-color: rgb(236 , 245 , 253)&quot;&gt;taobao_refund_RefundClosed&lt;/a&gt;" style="html=1;verticalAlign=bottom;endArrow=block;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="161" y="710" as="sourcePoint" />
+            <mxPoint x="545" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
